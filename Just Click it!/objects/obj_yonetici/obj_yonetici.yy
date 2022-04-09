@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_dilim1",
-    "path": "sprites/spr_dilim1/spr_dilim1.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_dilim",
-    "path": "objects/obj_dilim/obj_dilim.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -33,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_dilim1",
+  "name": "obj_yonetici",
   "tags": [],
   "resourceType": "GMObject",
 }

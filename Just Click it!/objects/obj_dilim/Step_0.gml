@@ -1,11 +1,12 @@
-if(!global.varmi){
-	image_xscale -= 0.1
-	image_yscale -= 0.1
+if(!varmi){
+	image_xscale -= 0.02
+	image_yscale -= 0.02
 }
 
-if(global.tiklama){
-	global.tiklama = false
-	alarm[0] = 1
-	alarm[1] = 30
-	alarm[2] = 59
+if(can <= 0){
+	varmi = false
+}
+
+if(image_xscale <= 0){
+	instance_destroy()
 }
