@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":2,},
     {"id":{"name":"obj_dilim1","path":"objects/obj_dilim1/obj_dilim1.yy",},"order":1,},
     {"id":{"name":"spr_dilim1","path":"sprites/spr_dilim1/spr_dilim1.yy",},"order":0,},
     {"id":{"name":"obj_dilim","path":"objects/obj_dilim/obj_dilim.yy",},"order":0,},
@@ -45,7 +46,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.625",
+    "IDEVersion": "2022.3.0.624",
   },
   "resourceVersion": "1.5",
   "name": "Just Click it!",
