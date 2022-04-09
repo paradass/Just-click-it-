@@ -1,0 +1,1 @@
+global.tiklama = true
