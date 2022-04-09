@@ -1,1 +1,1 @@
-alarm[0] = 0
+speed = -1
