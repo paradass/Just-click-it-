@@ -1,2 +1,2 @@
 event_inherited()
-can = 60
+direction = -180
