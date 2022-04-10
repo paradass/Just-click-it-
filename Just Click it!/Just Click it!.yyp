@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_tiklayici","path":"objects/obj_tiklayici/obj_tiklayici.yy",},"order":6,},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":2,},
     {"id":{"name":"spr_dilim1","path":"sprites/spr_dilim1/spr_dilim1.yy",},"order":0,},
     {"id":{"name":"spr_dilim3","path":"sprites/spr_dilim3/spr_dilim3.yy",},"order":2,},
@@ -7,6 +8,8 @@
     {"id":{"name":"obj_dilim5","path":"objects/obj_dilim5/obj_dilim5.yy",},"order":5,},
     {"id":{"name":"spr_dilim2","path":"sprites/spr_dilim2/spr_dilim2.yy",},"order":1,},
     {"id":{"name":"obj_yonetici","path":"objects/obj_yonetici/obj_yonetici.yy",},"order":4,},
+    {"id":{"name":"btn_tiklayici","path":"objects/btn_tiklayici/btn_tiklayici.yy",},"order":7,},
+    {"id":{"name":"tiklayici_btn","path":"sprites/tiklayici_btn/tiklayici_btn.yy",},"order":1,},
     {"id":{"name":"font","path":"fonts/font/font.yy",},"order":0,},
     {"id":{"name":"spr_dilim4","path":"sprites/spr_dilim4/spr_dilim4.yy",},"order":3,},
     {"id":{"name":"obj_dilim2","path":"objects/obj_dilim2/obj_dilim2.yy",},"order":2,},
@@ -49,7 +52,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/dilimler.yy","order":1,"resourceVersion":"1.0","name":"dilimler","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/dilimler.yy","order":0,"resourceVersion":"1.0","name":"dilimler","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/pizza.yy","order":5,"resourceVersion":"1.0","name":"pizza","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
