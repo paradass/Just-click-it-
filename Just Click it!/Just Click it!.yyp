@@ -9,7 +9,7 @@
     {"id":{"name":"font","path":"fonts/font/font.yy",},"order":0,},
     {"id":{"name":"spr_dilim4","path":"sprites/spr_dilim4/spr_dilim4.yy",},"order":3,},
     {"id":{"name":"spr_dilim5","path":"sprites/spr_dilim5/spr_dilim5.yy",},"order":4,},
-    {"id":{"name":"obj_dilim1","path":"objects/obj_dilim1/obj_dilim1.yy",},"order":3,},
+    {"id":{"name":"obj_dilim1","path":"objects/obj_dilim1/obj_dilim1.yy",},"order":1,},
     {"id":{"name":"obj_dilim","path":"objects/obj_dilim/obj_dilim.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -45,6 +45,7 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/dilimler.yy","order":1,"resourceVersion":"1.0","name":"dilimler","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/pizza.yy","order":5,"resourceVersion":"1.0","name":"pizza","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
