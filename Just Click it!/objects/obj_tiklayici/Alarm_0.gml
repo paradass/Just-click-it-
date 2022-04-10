@@ -1,4 +1,4 @@
-global.pizza_para += 5
+global.pizza_para += global.para_miktari
 alarm[0] = 300
 
 try{

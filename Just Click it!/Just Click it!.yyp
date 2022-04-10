@@ -18,6 +18,7 @@
     {"id":{"name":"obj_dilim3","path":"objects/obj_dilim3/obj_dilim3.yy",},"order":3,},
     {"id":{"name":"obj_dilim6","path":"objects/obj_dilim6/obj_dilim6.yy",},"order":6,},
     {"id":{"name":"obj_dilim","path":"objects/obj_dilim/obj_dilim.yy",},"order":0,},
+    {"id":{"name":"btn_arttirici","path":"objects/btn_arttirici/btn_arttirici.yy",},"order":8,},
     {"id":{"name":"obj_dilim4","path":"objects/obj_dilim4/obj_dilim4.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
