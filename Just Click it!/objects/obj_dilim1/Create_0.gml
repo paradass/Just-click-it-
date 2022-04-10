@@ -1,4 +1,3 @@
-can = 10
 direction = -210
-event_inherited();
-
+event_inherited()
+can = 10
