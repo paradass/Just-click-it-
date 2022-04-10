@@ -7,7 +7,6 @@ function tikla(){
 	}
 can--
 }
-
 can = 0
 varmi = true
 tiklama_bittimi = false
